@@ -392,12 +392,9 @@ input[type*="checkbox"]:checked{
     display: none;
 } */
 
-#chedder:checked ~ .chedder-inner{
+#chedder:checked~.chedder-inner img{
     display: block;
 }
-
-
-
 
 .chedder1{
     width: 50px;
