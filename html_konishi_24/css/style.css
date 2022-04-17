@@ -4,8 +4,9 @@ html{
     font-size: 62.5%;  
     width: 1200px;
 }
-
-
+.yellow{
+    color: #ffd61a;
+}
 .site-box{
     width: 1200px;
 }
@@ -166,6 +167,9 @@ img{
     margin-bottom: 40px;
 }
 
+.course-mini-box{
+    background-color: #fafafa;
+}
 
 
 
@@ -231,6 +235,7 @@ img{
     padding: 60px 0 60px 0 ;
     /* width: 700px; */
     margin: auto;
+    background-color: #fafafa;
 }
 
 .access-map{
